@@ -1,0 +1,47 @@
+header {
+    text-align: center;
+    background-color: bisque;
+    padding: 20px;
+    border-color: coral;
+    border-width: 30px;
+    border-style: stripes;
+    font-style: unset;
+}
+ul {
+    font-size: larger;
+    background-blend-mode: lighten;
+    background-size: cover;
+    border-width: 20px;
+    border-spacing: 20px;
+}
+p   {
+    font-size: 25px;
+    color: blue; 
+    font-style: italic;
+    padding-inline-start: 10px;
+    margin: 20px;
+}
+body {
+    background-color: aquamarine;
+}
+
+img {
+    width: 500px;
+    height: 400px;
+    margin: 20px;
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font: bold;
+    font-size: 40px;
+}
+
+#grants {
+    float: left;
+}
+#loans {
+    display: inline;
+    font-size: 20px;
+    font-style: italic;
+
+}
